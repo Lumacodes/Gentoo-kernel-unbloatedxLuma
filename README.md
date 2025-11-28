@@ -82,14 +82,16 @@ You must re-enable them manually in `menuconfig`.
 
 ---
 
-
-If your system differs — especially the storage controller, filesystem, or motherboard chipset — you must adjust the kernel.
-
----
-
 ## 📦 Using This Kernel Config
 
 Place it in your Linux source directory:
 
 ```sh
 cp gentoo-kernel-hardmode-luma /usr/src/linux/.config
+```
+## I Have Rent To Pay :) ...
+<div align="center">
+  <a href="https://ko-fi.com/lumacodes" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Support Me on Ko-fi" height="50">
+  </a>
+</div>
